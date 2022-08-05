@@ -1,7 +1,2 @@
-<html>
-  <body>
-    hello world
-    welcome
-  </body>
-</html>
+welcome to india
  
